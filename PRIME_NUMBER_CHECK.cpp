@@ -32,4 +32,3 @@ int main()
 
 }
 
-This is the link to run this code online: https://repl.it/@AnjolaTopeBabal/PRIMENUMBERCHECK
