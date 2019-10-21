@@ -6,4 +6,4 @@ Projects
 
 2.Sum of Numbers (Link to run this code online https://repl.it/@AnjolaTopeBabal/SumofNumbers)
 
-3. Reverse integer (this code reverses a number,Link to run this code online https://repl.it/@AnjolaTopeBabal/ReverseInteger)
+3. Reverse integer (this code reverses a number, Link to run this code online https://repl.it/@AnjolaTopeBabal/ReverseInteger)
