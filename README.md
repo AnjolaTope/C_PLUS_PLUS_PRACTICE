@@ -1,2 +1,5 @@
-# Prime_number_Check
-This checks if a number is a Prime Number
+This is a collection of my individal practice codes.
+
+Projects
+1.Prime number check(link to xee code online https://repl.it/@AnjolaTopeBabal/PRIMENUMBERCHECK)\
+2.Sum of Numbers
