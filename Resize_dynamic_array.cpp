@@ -4,29 +4,21 @@
 using namespace std;
 
 
-int morespace(string* &p,int size) {
-	
-	 int s=0;
+int morespace(string* &p,int &size) {
+  int s=0;
 	 s=size;
+	 string* pointer;
+	 pointer = new string[s+10];
 
-	string* pointer;
-	pointer = new string[s];
 	for (int i = 0; i < s; i++)
-	{
+	  {
 		 pointer[i] = p[i] ;
-	}
-    delete[]p;
+	  }
+  delete[]p;
 
 	size += 10;
-	p = new string [size];	
-
-	for (int i = 0; i < s; i++)
-	{
-		p[i] = pointer[i] ;
-	}
-	
-	delete[]pointer;
-	return size;
+	p = pointer;	
+  return size;
 }
 
 int main()
