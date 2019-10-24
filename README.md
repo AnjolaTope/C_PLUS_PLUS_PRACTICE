@@ -8,4 +8,4 @@ Projects
 
 3.Reverse integer (Link to run this code online https://repl.it/@AnjolaTopeBabal/ReverseInteger)
 
-4.Resizing a Dynamic Array (ink to run this code online https://repl.it/@ckonkol/C-write-to-and-read-from-file)
+4.Resizing a Dynamic Array (ink to run this code online https://repl.it/@AnjolaTopeBabal/Resizeadynamicarray)
